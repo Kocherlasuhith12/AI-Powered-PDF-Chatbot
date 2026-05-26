@@ -1,0 +1,16 @@
+langchain==0.3.25
+langchain-community==0.3.24
+langchain-anthropic==0.3.15
+langchain-text-splitters==0.3.8
+chromadb==0.6.3
+fastapi==0.115.12
+uvicorn[standard]==0.34.2
+streamlit==1.45.1
+pypdf==5.9.0
+python-multipart==0.0.20
+anthropic==0.52.0
+onnxruntime>=1.19.0
+python-dotenv==1.1.0
+pydantic==2.11.4
+requests==2.32.3
+pytest==8.3.5
